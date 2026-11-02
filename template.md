@@ -8,6 +8,10 @@ I hold a Bachelor's degree in Information Systems from Bina Sarana Informatika U
 
 ## Professional Experience
 
+<div class="entry-header"><strong>Nexara Tech</strong> - Web Developer <span class="entry-date">October 2026 - Now</span></div>
+
+Developing and maintaining web applications, managing databases, optimizing application performance, and collaborating with the development team to design innovative software solutions.
+
 <div class="entry-header"><strong>TVRI Nasional</strong> - IT Broadcast Intern <span class="entry-date">April 2025 - July 2025</span></div>
 
 Assisted in presentation programs, monitored pre-production and post-production processes, operated VMix, and supported coverage preparation.
