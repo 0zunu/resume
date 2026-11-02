@@ -8,14 +8,14 @@ Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Inform
 
 ## Pengalaman Profesional
 
-**TVRI Nasional** - Magang IT Broadcast (April 2025 - J
+<div class="entry-header"><strong>TVRI Nasional</strong> - Magang IT Broadcast <span class="entry-date">April 2025 - Juli 2025</span></div>
 
 - Membantu dalam program presenta.
 - Memantau selama pra-produksi dan pasca.
 - Mengoperas.
 - Membantu dalam penyusuna.
 
-**Korps Brimob Resimen III** - Magang Staf Administrasi (Februari 2020 - Ma
+<div class="entry-header"><strong>Korps Brimob Resimen III</strong> - Magang Staf Administrasi <span class="entry-date">Februari 2020 - Maret 2020</span></div>
 
 - Melakukan perawatan perang.
 - Membuat penomo.
@@ -24,19 +24,19 @@ Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Inform
 
 ## Pendidikan
 
-**Universitas Bina Sarana Informatika** - Sistem Informasi (Maret 2022 - Februari 2026)
+<div class="entry-header"><strong>Universitas Bina Sarana Informatika</strong> - Sistem Informasi <span class="entry-date">Maret 2022 - Februari 2026</span></div>
 
 - IPK 3.82.
 - Mata kuliah terkait Manajemen Proyek dan Pemrograman Web.
 - Tesis tentang "Implementasi Sistem Ujian Daring SMKN 34 Jakarta".
 
-**SMK Harapan Bangsa** - Teknik Komputer Jaringan (Mei 2017 - Juli 2020)
+<div class="entry-header"><strong>SMK Harapan Bangsa</strong> - Teknik Komputer Jaringan <span class="entry-date">Mei 2017 - Juli 2020</span></div>
 
 - Menguasai Cisco Packet Tracer dan Mikrotik.
 
 ## Proyek
 
-**Website E-commerce - Destiny.Industries** (Juli 2024 - Agustus 2024)
+<div class="entry-header"><strong>Website E-commerce - Destiny.Industries</strong> <span class="entry-date">Juli 2024 - Agustus 2024</span></div>
 
 - Mempersiapkan Project Charter.
 - Nilai Terencana (PV) atau Biaya Terjadwal yang Dianggarkan (BCWS).

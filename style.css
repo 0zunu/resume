@@ -46,6 +46,23 @@ p, li {
   font-size: 14px;
 }
 
+.entry-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0;
+  font-size: 14px;
+}
+
+.entry-date {
+  margin-left: auto;
+  white-space: nowrap;
+  font-size: 12px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
 ul {
   padding-left: 20px;
   margin-top: 5px;
