@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV ATS - Nama Anda</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Library untuk mengubah Markdown menjadi HTML -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  </head>
+  <body>
+    <button id="print-btn" onclick="window.print()">Unduh PDF</button>
+
+    <div id="cv-content" class="container">
+      <!-- Isi template.md akan dimuat di sini -->
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", async () => {
+        const contentDiv = document.getElementById("cv-content");
+
+        try {
+          // Membaca file template.md
+          const response = await fetch("template.md");
+          const text = await response.text();
+
+          // Mengubah Markdown ke HTML
+          contentDiv.innerHTML = marked.parse(text);
+
+          // Logika pop-up unduh untuk kunjungan pertama
+          if (!localStorage.getItem("cv_downloaded")) {
+            setTimeout(() => {
+              const wantDownload = confirm(
+                "Selamat datang! Apakah Anda ingin mengunduh CV ini (Simpan sebagai PDF)?",
+              );
+              if (wantDownload) {
+                window.print();
+              }
+              // Simpan status agar notif tidak muncul lagi
+              localStorage.setItem("cv_downloaded", "true");
+            }, 800); // Tunggu render konten selesai
+          }
+        } catch (err) {
+          contentDiv.innerHTML =
+            "<p>Gagal memuat template CV. Pastikan file template.md tersedia.</p>";
+          console.error(err);
+        }
+      });
+    </script>
+  </body>
+</html>
