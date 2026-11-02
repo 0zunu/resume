@@ -10,17 +10,17 @@ Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Inform
 
 <div class="entry-header"><strong>TVRI Nasional</strong> - Magang IT Broadcast <span class="entry-date">April 2025 - Juli 2025</span></div>
 
-- Membantu dalam program presenta.
-- Memantau selama pra-produksi dan pasca.
-- Mengoperas.
-- Membantu dalam penyusuna.
+- Membantu dalam program presentasi materi.
+- Memantau selama pra-produksi dan pasca-produksi.
+- Mengoperasikan VMix.
+- Membantu dalam penyusunan liputan.
 
 <div class="entry-header"><strong>Korps Brimob Resimen III</strong> - Magang Staf Administrasi <span class="entry-date">Februari 2020 - Maret 2020</span></div>
 
-- Melakukan perawatan perang.
-- Membuat penomo.
-- Membuat surat penugasan untuk oper.
-- Mengirim surat .
+- Melakukan perawatan perangkat keras.
+- Membuat penomoran surat.
+- Membuat surat penugasan untuk operasi zebra.
+- Mengirim surat penugasan.
 
 ## Pendidikan
 
@@ -28,11 +28,11 @@ Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Inform
 
 - IPK 3.82.
 - Mata kuliah terkait Manajemen Proyek dan Pemrograman Web.
-- Tesis tentang "Implementasi Sistem Ujian Daring SMKN 34 Jakarta".
+- Tesis tentang “Implementasi Sistem Informasi Ujian Online Pada SMKN 34 Jakarta”.
 
 <div class="entry-header"><strong>SMK Harapan Bangsa</strong> - Teknik Komputer Jaringan <span class="entry-date">Mei 2017 - Juli 2020</span></div>
 
-- Menguasai Cisco Packet Tracer dan Mikrotik.
+- Menguasai Cisco Packet Tracer dan MikroTik.
 
 ## Proyek
 
@@ -52,8 +52,7 @@ Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Inform
 - Sertifikat Kompetensi Pengembangan Perangkat Lunak dan Analisis Program.
 - Sertifikat Kemahiran Pengetahuan Sistem Basis Data.
 
-## Keahlian & Bahasa
+## Keterampilan & Bahasa
 
 - **Bahasa:** Indonesia (Penutur Asli), Bahasa Inggris (Pemula).
-- **Aplikasi:** Microsoft Office (word, excel & point), Google Workspace (document, spreadsheet, slides, calendar), Aplikasi Editing (Canva, Figma, Photoshop).
-- **Teknis:** Python, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Networking.
+- **Keterampilan:** Microsoft Office (Word, Excel & PowerPoint), Canva, Photoshop, Analisis Data, Codeigniter, Hosting, Cisco Packet Tracer, MikroTik.
