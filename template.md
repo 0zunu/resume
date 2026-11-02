@@ -8,42 +8,33 @@ Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Inform
 
 ## Pengalaman Profesional
 
-<div class="entry-header"><strong>TVRI Nasional</strong> - Magang IT Broadcast <span class="entry-date">April 2025 - Juli 2025</span></div>
+<div class="entry-header"><strong>TVRI Nasional</strong>- Magang IT Broadcast <span class="entry-date">April 2025 - Juli 2025</span></div>
 
-- Membantu dalam program presentasi materi.
-- Memantau selama pra-produksi dan pasca-produksi.
-- Mengoperasikan VMix.
-- Membantu dalam penyusunan liputan.
+Membantu dalam program presentasi materi, Memantau selama pra-produksi dan pasca-produksi, Mengoperasikan VMix, dan Membantu dalam penyusunan liputan.
 
-<div class="entry-header"><strong>Korps Brimob Resimen III</strong> - Magang Staf Administrasi <span class="entry-date">Februari 2020 - Maret 2020</span></div>
+<div class="entry-header"><strong>Korps Brimob Resimen III</strong>- Magang Staf Administrasi <span class="entry-date">Februari 2020 - Maret 2020</span></div>
 
-- Melakukan perawatan perangkat keras.
-- Membuat penomoran surat.
-- Membuat surat penugasan untuk operasi zebra.
-- Mengirim surat penugasan.
+Melakukan perawatan perangkat keras, Membuat penomoran surat, Membuat surat penugasan untuk operasi zebra, dan Mengirim surat penugasan.
 
 ## Pendidikan
 
-<div class="entry-header"><strong>Universitas Bina Sarana Informatika</strong> - Sistem Informasi <span class="entry-date">Maret 2022 - Februari 2026</span></div>
+<div class="entry-header"><strong>Universitas Bina Sarana Informatika</strong>- Sistem Informasi <span class="entry-date">Maret 2022 - Februari 2026</span></div>
 
-- IPK 3.82.
-- Mata kuliah terkait Manajemen Proyek dan Pemrograman Web.
-- Tesis tentang “Implementasi Sistem Informasi Ujian Online Pada SMKN 34 Jakarta”.
+Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
 
-<div class="entry-header"><strong>SMK Harapan Bangsa</strong> - Teknik Komputer Jaringan <span class="entry-date">Mei 2017 - Juli 2020</span></div>
+<div class="entry-header"><strong>SMK Harapan Bangsa</strong>- Teknik Komputer Jaringan <span class="entry-date">Mei 2017 - Juli 2020</span></div>
 
-- Menguasai Cisco Packet Tracer dan MikroTik.
+Menguasai Cisco Packet Tracer dan MikroTik.
 
 ## Proyek
 
-<div class="entry-header"><strong>Website E-commerce - Destiny.Industries</strong> <span class="entry-date">Juli 2024 - Agustus 2024</span></div>
+<div class="entry-header"><strong>KIAT</strong> <span class="entry-date">20 October 2026</span></div>
 
-- Mempersiapkan Project Charter.
-- Nilai Terencana (PV) atau Biaya Terjadwal yang Dianggarkan (BCWS).
-- Biaya Sebenarnya dan Nilai yang Didapat (EV).
-- Metrik Kinerja Proyek.
-- Desain Website.
-- Membuat Website.
+Mengembangkan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
+
+<div class="entry-header"><strong>Website E-commerce - Destiny.Industries</strong> <span class="entry-date">19 December 2023</span></div>
+
+Mempersiapkan Project Charter, Nilai Terencana (PV) atau Biaya Terjadwal yang Dianggarkan (BCWS), Biaya Sebenarnya dan Nilai yang Didapat (EV), Metrik Kinerja Proyek, Desain Website, dan Membuat Website.
 
 ## Sertifikat
 
