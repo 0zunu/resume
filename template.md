@@ -32,6 +32,10 @@ Proficient in Cisco Packet Tracer and MikroTik.
 
 Developed the company profile website for PT Kawasan Industri ANTAM Timur (PT KIAT), a strategic subsidiary of PT ANTAM Tbk in the nickel trade business unit.
 
+<div class="entry-header"><strong>SMKN 34 Jakarta E-Learning</strong> <span class="entry-date">25 December 2025</span></div>
+
+Developing a web-based online exam application (Computer-Based Test) for SMK Negeri 34 Jakarta to replace the conventional platform with a more secure, integrated, and cheat-free evaluation system.
+
 <div class="entry-header"><strong>Website E-commerce - Destiny.Industries</strong> <span class="entry-date">19 December 2023</span></div>
 
 Prepared the Project Charter, Planned Value (PV) or Budgeted Cost of Work Scheduled (BCWS), Actual Cost and Earned Value (EV), Project Performance Metrics, Website Design, and Website Development.

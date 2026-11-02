@@ -27,10 +27,11 @@ resume/
 ## Cara Menjalankan
 
 1. Clone atau unduh repository ini.
-2. Buka file `index.html` di browser.
-3. Jika file `template.md` tidak tampil, pastikan file tersebut ada di folder yang sama.
+2. Di Windows, jalankan `start-local.bat` dari folder proyek.
+3. Setelah server aktif, buka `http://localhost:8000` di browser.
+4. Tekan `Ctrl+C` pada jendela server untuk menghentikannya.
 
-Untuk mode lokal, tidak dibutuhkan server khusus karena aplikasi ini menggunakan `fetch()` untuk mengambil `template.md`.
+Untuk sistem operasi lain, jalankan `python -m http.server 8000` dari folder proyek, lalu buka `http://localhost:8000`. Server lokal diperlukan agar browser dapat memuat `template.md` melalui `fetch()`.
 
 ## Cara Mengedit CV
 
@@ -48,7 +49,7 @@ Software Engineer | Jakarta, Indonesia | email@domain.com | linkedin.com/in/user
 Profesional IT dengan pengalaman 3+ tahun di bidang pengembangan web.
 ```
 
-Setelah itu, buka kembali `index.html` untuk melihat hasilnya.
+Setelah itu, muat ulang halaman `http://localhost:8000` untuk melihat hasilnya.
 
 ## Mengubah Judul Halaman
 
