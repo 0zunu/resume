@@ -1,49 +1,49 @@
 # AZRIEL FIDZLIE
 
-Pasir Gunung selatan, Kec. Cimanggis, Depok, Jawa Barat. | fidzlieazriel@gmail.com | www.azriel.id
+Pasir Gunung Selatan, Kec. Cimanggis, Depok, West Java, Indonesia. | fidzlieazriel@gmail.com | www.azriel.id
 
-## Ringkasan
+## Summary
 
-Saya memiliki gelar Sarjana Sistem Informasi dari Universitas Bina Sarana Informatika, dan saya meraih nilai yang baik. Saya punya pengalaman membuat beberapa proyek, termasuk mengembangkan website belanja online dan website ujian daring, yang semakin menumbuhkan minat saya dalam pengembangan web dan pembuatan website. Selain itu, saya juga punya pengalaman kerja di bidang lain yang saya kuasai, yaitu jaringan komputer.
+I hold a Bachelor's degree in Information Systems from Bina Sarana Informatika University and have achieved strong academic results. I have hands-on experience in several projects, including developing an online shopping website and a digital examination website, which has strengthened my interest in web development and website creation. In addition, I also have experience in another field I master: computer networking.
 
-## Pengalaman Profesional
+## Professional Experience
 
-<div class="entry-header"><strong>TVRI Nasional</strong>- Magang IT Broadcast <span class="entry-date">April 2025 - Juli 2025</span></div>
+<div class="entry-header"><strong>TVRI Nasional</strong> - IT Broadcast Intern <span class="entry-date">April 2025 - July 2025</span></div>
 
-Membantu dalam program presentasi materi, Memantau selama pra-produksi dan pasca-produksi, Mengoperasikan VMix, dan Membantu dalam penyusunan liputan.
+Assisted in presentation programs, monitored pre-production and post-production processes, operated VMix, and supported coverage preparation.
 
-<div class="entry-header"><strong>Korps Brimob Resimen III</strong>- Magang Staf Administrasi <span class="entry-date">Februari 2020 - Maret 2020</span></div>
+<div class="entry-header"><strong>Korps Brimob Resimen III</strong> - Administrative Staff Intern <span class="entry-date">February 2020 - March 2020</span></div>
 
-Melakukan perawatan perangkat keras, Membuat penomoran surat, Membuat surat penugasan untuk operasi zebra, dan Mengirim surat penugasan.
+Performed hardware maintenance, created document numbering, prepared assignment letters for zebra operations, and distributed assignment letters.
 
-## Pendidikan
+## Education
 
-<div class="entry-header"><strong>Universitas Bina Sarana Informatika</strong>- Sistem Informasi <span class="entry-date">Maret 2022 - Februari 2026</span></div>
+<div class="entry-header"><strong>Universitas Bina Sarana Informatika</strong> - Information Systems <span class="entry-date">March 2022 - February 2026</span></div>
 
-Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
+Graduated with a Bachelor of Computer Science degree (S.Kom) with a GPA of 3.82.
 
-<div class="entry-header"><strong>SMK Harapan Bangsa</strong>- Teknik Komputer Jaringan <span class="entry-date">Mei 2017 - Juli 2020</span></div>
+<div class="entry-header"><strong>SMK Harapan Bangsa</strong> - Computer and Network Engineering <span class="entry-date">May 2017 - July 2020</span></div>
 
-Menguasai Cisco Packet Tracer dan MikroTik.
+Proficient in Cisco Packet Tracer and MikroTik.
 
-## Proyek
+## Projects
 
 <div class="entry-header"><strong>KIAT</strong> <span class="entry-date">20 October 2026</span></div>
 
-Mengembangkan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
+Developed the company profile website for PT Kawasan Industri ANTAM Timur (PT KIAT), a strategic subsidiary of PT ANTAM Tbk in the nickel trade business unit.
 
 <div class="entry-header"><strong>Website E-commerce - Destiny.Industries</strong> <span class="entry-date">19 December 2023</span></div>
 
-Mempersiapkan Project Charter, Nilai Terencana (PV) atau Biaya Terjadwal yang Dianggarkan (BCWS), Biaya Sebenarnya dan Nilai yang Didapat (EV), Metrik Kinerja Proyek, Desain Website, dan Membuat Website.
+Prepared the Project Charter, Planned Value (PV) or Budgeted Cost of Work Scheduled (BCWS), Actual Cost and Earned Value (EV), Project Performance Metrics, Website Design, and Website Development.
 
-## Sertifikat
+## Certifications
 
-- Sertifikat Penyelesaian di programiz.com.
-- Sertifikat Kompetensi Perencanaan Sumber Daya Perusahaan (ERP).
-- Sertifikat Kompetensi Pengembangan Perangkat Lunak dan Analisis Program.
-- Sertifikat Kemahiran Pengetahuan Sistem Basis Data.
+- Completion Certificate from programiz.com.
+- Competency Certificate in Enterprise Resource Planning (ERP).
+- Competency Certificate in Software Development and Program Analysis.
+- Certificate of Proficiency in Database Systems.
 
-## Keterampilan & Bahasa
+## Skills & Languages
 
-- **Bahasa:** Indonesia (Penutur Asli), Bahasa Inggris (Pemula).
-- **Keterampilan:** Microsoft Office (Word, Excel & PowerPoint), Canva, Photoshop, Analisis Data, Codeigniter, Hosting, Cisco Packet Tracer, MikroTik.
+- **Languages:** Indonesian (Native), English (Beginner).
+- **Skills:** Microsoft Office (Word, Excel & PowerPoint), Canva, Photoshop, Data Analysis, CodeIgniter, Hosting, Cisco Packet Tracer, MikroTik.
