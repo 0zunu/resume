@@ -11,10 +11,9 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   </head>
   <body>
-    <button id="print-btn" onclick="window.print()">Unduh PDF</button>
+    <button id="print-btn" onclick="window.print()">Download PDF</button>
 
     <div id="cv-content" class="container">
-      <!-- Isi template.md akan dimuat di sini -->
     </div>
 
     <script>
@@ -22,25 +21,21 @@
         const contentDiv = document.getElementById("cv-content");
 
         try {
-          // Membaca file template.md
           const response = await fetch("template.md");
           const text = await response.text();
 
-          // Mengubah Markdown ke HTML
           contentDiv.innerHTML = marked.parse(text);
 
-          // Logika pop-up unduh untuk kunjungan pertama
           if (!localStorage.getItem("cv_downloaded")) {
             setTimeout(() => {
               const wantDownload = confirm(
-                "Selamat datang! Apakah Anda ingin mengunduh CV ini (Simpan sebagai PDF)?",
+                "Welcome! Do you want to download this CV (Save as PDF)?",
               );
               if (wantDownload) {
                 window.print();
               }
-              // Simpan status agar notif tidak muncul lagi
               localStorage.setItem("cv_downloaded", "true");
-            }, 800); // Tunggu render konten selesai
+            }, 800);
           }
         } catch (err) {
           contentDiv.innerHTML =
