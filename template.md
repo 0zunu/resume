@@ -8,7 +8,7 @@ I hold a Bachelor's degree in Information Systems from Bina Sarana Informatika U
 
 ## Professional Experience
 
-<div class="entry-header"><strong>Nexara Tech</strong> - Web Developer <span class="entry-date">October 2026 - Now</span></div>
+<div class="entry-header"><strong>Nexara Tech</strong> - Web Developer <span class="entry-date">October 2026 - Present</span></div>
 
 Developing and maintaining web applications, managing databases, optimizing application performance, and collaborating with the development team to design innovative software solutions.
 
