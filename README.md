@@ -1,97 +1,97 @@
 # Resume / CV Website
 
-Project ini adalah template halaman CV atau resume berbasis HTML dan Markdown yang dapat diakses secara sederhana di browser dan dicetak ke PDF. Konten utama CV disimpan di file `template.md`, lalu diproses menjadi HTML menggunakan library `marked.js`.
+This project is an HTML- and Markdown-based CV or resume page template that can be viewed in a browser and printed to PDF. The main CV content is stored in `template.md` and rendered as HTML using the `marked.js` library.
 
-## Fitur
+## Features
 
-- Tampilan CV yang bersih dan profesional
-- Konten CV ditulis dalam format Markdown agar mudah diedit
-- Tombol unduh / cetak ke PDF via browser
-- Notifikasi kecil untuk pengguna yang baru membuka halaman
-- Dapat dideploy ke GitHub Pages dengan workflow yang sudah disiapkan
+- Clean, professional CV layout
+- CV content written in Markdown for easy editing
+- Browser button to download or print to PDF
+- A small notification for first-time visitors
+- Deployable to GitHub Pages using the included workflow
 
-## Struktur File
+## Project Structure
 
 ```text
 resume/
-├── index.html          # Halaman utama CV
-├── style.css           # Styling tampilan CV
-├── template.md         # Konten CV dalam format Markdown
-├── README.md           # Dokumentasi proyek
+├── index.html          # Main CV page
+├── style.css           # CV page styles
+├── template.md         # CV content in Markdown format
+├── README.md           # Project documentation
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml  # Workflow deployment ke GitHub Pages
-└── .gitignore          # (jika ada pada repositori Anda)
+│       └── deploy.yml  # GitHub Pages deployment workflow
+└── .gitignore          # (if included in your repository)
 ```
 
-## Cara Menjalankan
+## Running the Project
 
-1. Clone atau unduh repository ini.
-2. Di Windows, jalankan `start-local.bat` dari folder proyek.
-3. Setelah server aktif, buka `http://localhost:8000` di browser.
-4. Tekan `Ctrl+C` pada jendela server untuk menghentikannya.
+1. Clone or download this repository.
+2. On Windows, run `start-local.bat` from the project folder.
+3. Once the server is running, open `http://localhost:8000` in your browser.
+4. Press `Ctrl+C` in the server window to stop it.
 
-Untuk sistem operasi lain, jalankan `python -m http.server 8000` dari folder proyek, lalu buka `http://localhost:8000`. Server lokal diperlukan agar browser dapat memuat `template.md` melalui `fetch()`.
+On other operating systems, run `python -m http.server 8000` from the project folder, then open `http://localhost:8000`. A local server is required so the browser can load `template.md` using `fetch()`.
 
-## Cara Mengedit CV
+## Editing the CV
 
-Ubah isi pada file `template.md` sesuai data diri Anda.
+Edit the contents of `template.md` with your personal information.
 
-Contoh:
+Example:
 
 ```md
-# Nama Lengkap Anda
+# Your Full Name
 
 Software Engineer | Jakarta, Indonesia | email@domain.com | linkedin.com/in/username
 
-## Ringkasan
+## Summary
 
-Profesional IT dengan pengalaman 3+ tahun di bidang pengembangan web.
+IT professional with 3+ years of experience in web development.
 ```
 
-Setelah itu, muat ulang halaman `http://localhost:8000` untuk melihat hasilnya.
+Then reload `http://localhost:8000` to see the changes.
 
-## Mengubah Judul Halaman
+## Changing the Page Title
 
-Pada file `index.html`, bagian berikut dapat diubah sesuai nama CV Anda:
+In `index.html`, you can change the following section to match your CV title:
 
 ```html
-<title>CV ATS - Nama Anda</title>
+<title>ATS Resume - Your Name</title>
 ```
 
-## Menyesuaikan Styling
+## Customizing the Styling
 
-File `style.css` berisi semua pengaturan tampilan seperti:
+The `style.css` file contains all visual style settings, including:
 
-- warna
-- ukuran font
+- colors
+- font sizes
 - layout
 - spacing
-- gaya heading dan list
+- heading and list styles
 
-Sesuaikan berdasarkan preferensi Anda.
+Adjust these to suit your preferences.
 
-## Deployment ke GitHub Pages
+## Deploying to GitHub Pages
 
-Workflow deployment sudah tersedia di:
+The deployment workflow is available at:
 
 - `.github/workflows/deploy.yml`
 
-Untuk menggunakannya:
+To use it:
 
-1. Push project ke repository GitHub.
-2. Buka tab `Settings` > `Pages`.
-3. Pastikan sumber deployment diatur ke `GitHub Actions`.
-4. GitHub akan otomatis men-deploy dari workflow `deploy.yml`.
+1. Push the project to a GitHub repository.
+2. Open `Settings` > `Pages`.
+3. Make sure the deployment source is set to `GitHub Actions`.
+4. GitHub will automatically deploy the project using the `deploy.yml` workflow.
 
-## Catatan
+## Notes
 
-Proyek ini cocok digunakan sebagai:
+This project is suitable as a:
 
-- curriculum vitae pribadi
-- portfolio online dalam bentuk satu halaman
-- template resume yang mudah di-customize
+- personal curriculum vitae
+- single-page online portfolio
+- easily customizable resume template
 
-## Lisensi
+## License
 
-Proyek ini dibuat untuk kebutuhan personal dan dapat Anda modifikasi sesuai kebutuhan.
+This project is intended for personal use and can be modified to suit your needs.
