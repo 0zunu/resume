@@ -54,4 +54,4 @@ Prepared the Project Charter, Planned Value (PV) or Budgeted Cost of Work Schedu
 ## Skills & Languages
 
 - **Languages:** Indonesian (Native), English (Beginner).
-- **Skills:** Canva, Figma, Photoshop, Program Analyst, Front-end Development, Back-end Development, CodeIgniter, Hosting, Cisco Packet Tracer, MikroTik.
+- **Skills:** Canva, Figma, Photoshop, Program Analyst, Front-end Development, Back-end Development, CodeIgniter, Hosting, Cisco Packet Tracer, and MikroTik.
